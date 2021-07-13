@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://feeds.simplecast.com/JoR28o79" rel="self" title="MP3 Audio" type="application/atom+xml"/>
+    <atom:link href="https://simplecast.superfeedr.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
+    <generator>https://simplecast.com</generator>
+    <title>React Podcast</title>
+    <description>Conversations about React with your favorite developers.</description>
+    <copyright>All rights reserved</copyright>
+    <language>en-us</language>
+    <pubDate>Thu, 17 Dec 2020 13:00:00 +0000</pubDate>
+    <lastBuildDate>Thu, 11 Feb 2021 18:07:24 +0000</lastBuildDate>
+    <image>
+      <link>http://reactpodcast.com/</link>
+      <title>React Podcast</title>
+      <url>https://image.simplecastcdn.com/images/bdb43d4d-bd1d-4fbc-bd60-40f1e3299aa3/20f97d0b-6dab-4005-a995-0ab8fc2cf31c/3000x3000/1550288890-artwork.jpg?aid=rss_feed</url>
+    </image>
+    <link>http://reactpodcast.com/</link>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>Conversations about React with your favorite developers.</itunes:summary>
+    <itunes:author>Michael Chan</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://image.simplecastcdn.com/images/bdb43d4d-bd1d-4fbc-bd60-40f1e3299aa3/20f97d0b-6dab-4005-a995-0ab8fc2cf31c/3000x3000/1550288890-artwork.jpg?aid=rss_feed"/>
+    <itunes:new-feed-url>https://feeds.simplecast.com/JoR28o79</itunes:new-feed-url>
+    <itunes:keywords>React, ReactJS, React Native, JavaScript, Web Development, Programming, Coding, Software Development, Frontend</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Spec</itunes:name>
+      <itunes:email>shows@spec.fm</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology"/>
+    <item>
+      <guid isPermaLink="false">990a9681-9752-44cf-8821-650f267b2b87</guid>
+      <title>123: Cassidy Williams on Dreams and Disasters in 2020</title>
+      <description><![CDATA[<h2>Featuring</h2><p>Cassidy Williams — <a href="https://twitter.com/cassidoo">Twitter</a>, <a href="https://github.com/cassidoo">GitHub</a>, <a href="https://cassidoo.co">Website</a><br />chantastic — <a href="https://twitter.com/chantastic">Twitter</a>, <a href="https://github.com/timneutkens">GitHub</a>, <a href="https://chan.dev">Website</a></p><h3>Discord</h3><p><a href="https://discord.gg/dx7ZWCy">Join the discussion in Discord</a> 🎉🎊🥳</p><p>Listeners of React Podcast are chatting on Discord!<br /><a href="https://discord.gg/dx7ZWCy">Join us Thursday</a> at 10am CT for a friendly chat with Cassidy Williams.<br />It's fun, interactive and all are welcome!</p><h2>Links</h2><ul><li><a href="https://cassidoo.co/newsletter/">Cassidy's Newsletter</a></li><li><a href="https://reactpodcast.com/episodes/40">40: Lift as you Climb with Cassidy Williams</a></li><li><a href="https://www.kickstarter.com/projects/cassidoo/go-on-the-go">Go: On the Go!</a> — A travel-sized, handmade Go set for Make 100!</li><li><a href="https://remotelyinteresting.transistor.fm">Remotely Interesting Podcast</a> by Netlify<ul><li><a href="https://remotelyinteresting.transistor.fm/episodes/008-pandemic-pair-and-mob-programming">008: Pandemic Pair and Mob Programming</a></li></ul></li><li><a href="https://explorers.netlify.com">Jamstack Explorers</a> learning platform</li></ul><h3>People mentioned</h3><ul><li><h2>Sponsors</h2></li></ul><h3>Retool</h3><p>Build internal tools, remarkably fast with <strong>Retool</strong>.<br />Connect to anything with an API. Drag-and-drop React components.<br />Write JS anywhere.<br />Learn more at <a href="retool.com/reactpodcast">retool.com/reactpodcast</a></p><h3>Honeybadger</h3><p>When you push code with errors, and those error makes it all the way to a user, you want Honeybadger monitoring at your back.</p><p>Get 30% off for 6 months Honeybadger by mentioning React Podcast at sign-up. There's no credit card required.</p><p>Just visit <a href="https://www.honeybadger.io">Honebadger.io</a>.</p><h2>Get involved</h2><h3>Black Lives Matter</h3><p>Please join us in donating to the <a href="https://eji.org">Equal Justice Initiative</a></p>
+]]></description>
+      <pubDate>Thu, 17 Dec 2020 13:00:00 +0000</pubDate>
+      <author>shows@spec.fm (Spec)</author>
+      <link>https://reactpodcast.com/episodes/123-XHRPTLZZ</link>
+      <content:encoded><![CDATA[<h2>Featuring</h2><p>Cassidy Williams — <a href="https://twitter.com/cassidoo">Twitter</a>, <a href="https://github.com/cassidoo">GitHub</a>, <a href="https://cassidoo.co">Website</a><br />chantastic — <a href="https://twitter.com/chantastic">Twitter</a>, <a href="https://github.com/timneutkens">GitHub</a>, <a href="https://chan.dev">Website</a></p><h3>Discord</h3><p><a href="https://discord.gg/dx7ZWCy">Join the discussion in Discord</a> 🎉🎊🥳</p><p>Listeners of React Podcast are chatting on Discord!<br /><a href="https://discord.gg/dx7ZWCy">Join us Thursday</a> at 10am CT for a friendly chat with Cassidy Williams.<br />It's fun, interactive and all are welcome!</p><h2>Links</h2><ul><li><a href="https://cassidoo.co/newsletter/">Cassidy's Newsletter</a></li><li><a href="https://reactpodcast.com/episodes/40">40: Lift as you Climb with Cassidy Williams</a></li><li><a href="https://www.kickstarter.com/projects/cassidoo/go-on-the-go">Go: On the Go!</a> — A travel-sized, handmade Go set for Make 100!</li><li><a href="https://remotelyinteresting.transistor.fm">Remotely Interesting Podcast</a> by Netlify<ul><li><a href="https://remotelyinteresting.transistor.fm/episodes/008-pandemic-pair-and-mob-programming">008: Pandemic Pair and Mob Programming</a></li></ul></li><li><a href="https://explorers.netlify.com">Jamstack Explorers</a> learning platform</li></ul><h3>People mentioned</h3><ul><li><h2>Sponsors</h2></li></ul><h3>Retool</h3><p>Build internal tools, remarkably fast with <strong>Retool</strong>.<br />Connect to anything with an API. Drag-and-drop React components.<br />Write JS anywhere.<br />Learn more at <a href="retool.com/reactpodcast">retool.com/reactpodcast</a></p><h3>Honeybadger</h3><p>When you push code with errors, and those error makes it all the way to a user, you want Honeybadger monitoring at your back.</p><p>Get 30% off for 6 months Honeybadger by mentioning React Podcast at sign-up. There's no credit card required.</p><p>Just visit <a href="https://www.honeybadger.io">Honebadger.io</a>.</p><h2>Get involved</h2><h3>Black Lives Matter</h3><p>Please join us in donating to the <a href="https://eji.org">Equal Justice Initiative</a></p>
+]]></content:encoded>
+      <enclosure length="57483189" type="audio/mpeg" url="https://clubhouse-audio.s3.amazonaws.com/hujie/c8a19fb7-b02e-4456-b1fc-fc9aa321af1b.mp3"/>
+      <itunes:title>123: Cassidy Williams on Dreams and Disasters in 2020</itunes:title>
+      <itunes:author>Spec</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/2715067c-341c-4704-8ff3-ab5f74ee1281/c8a19fb7-b02e-4456-b1fc-fc9aa321af1b/3000x3000/reactpodcast-cover.jpg?aid=rss_feed"/>
+      <itunes:duration>00:59:33</itunes:duration>
+      <itunes:summary>They say hindsight is 2020. And at the end of the year 2020, it sure feels hard to disagree.
+
+Cassidy Williams opens up about her grand visions for 2020, the challenges she encountered this year, and how the effect they had on her job and Make 100 Kickstarter project Go on the Go. She shares what skills and habits were important in navigating these surprises and how to share your reach with others.</itunes:summary>
+      <itunes:subtitle>They say hindsight is 2020. And at the end of the year 2020, it sure feels hard to disagree.
+
+Cassidy Williams opens up about her grand visions for 2020, the challenges she encountered this year, and how the effect they had on her job and Make 100 Kickstarter project Go on the Go. She shares what skills and habits were important in navigating these surprises and how to share your reach with others.</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>123</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">439bcdfd-0811-4cd5-a069-5e850ec18f38</guid>
+      <title>122: TJ VanToll on Online Events that Work</title>
+      <description><![CDATA[<h2>Featuring</h2><p>TJ VanToll — <a href="https://twitter.com/tjvantoll">Twitter</a>, <a href="https://github.com/tjvantoll">GitHub</a>, <a href="https://www.tjvantoll.com">Website</a><br />chantastic — <a href="https://twitter.com/chantastic">Twitter</a>, <a href="https://github.com/timneutkens">GitHub</a>, <a href="https://chan.dev">Website</a></p><h3>Discord</h3><p><a href="https://discord.gg/dx7ZWCy">Join the discussion Discord</a> 🎉🎊🥳</p><p>Listeners of React Podcast are chatting on Discord!<br /><a href="https://discord.gg/dx7ZWCy">Join us Thursday</a> at 10am CT for a friendly chat thru the latest episode.<br />It's fun, interactive and all are welcome!</p><h2>Links</h2><ul><li><a href="https://www.telerik.com/devreach/online">DevReach 2020</a></li><li><a href="https://www.twitch.tv/codeitlive">CodeItLive on Twitch</a></li><li><a href="https://www.telerik.com/react-wednesdays">React Wednesdays</a></li><li><a href="https://streamyard.com">StreamYard</a></li></ul><h2>Sponsors</h2><h3>Honeybadger</h3><p>When you push code with errors, and those error makes it all the way to a user, you want Honeybadger monitoring at your back.</p><p>Get 30% off for 6 months Honeybadger by mentioning React Podcast at sign-up. There's no credit card required.</p><p>Just visit <a href="https://www.honeybadger.io">Honebadger.io</a>.</p><h3>Infinite Red</h3><p>In over your head with a React or React Native app?<br />Infinite Red can help.<br />They are React Native core contributors who've been designing, building and shipping apps for over 10 years.<br />Learn more at <a href="http://reactpodcast.infinite.red/">reactpodcast.infinite.red</a>.</p><h2>Get involved</h2><h3>Black Lives Matter</h3><p>Please join us in donating to the <a href="https://eji.org">Equal Justice Initiative</a></p>
+]]></description>
+      <pubDate>Thu, 10 Dec 2020 13:00:00 +0000</pubDate>
+      <author>shows@spec.fm (Spec)</author>
+      <link>https://reactpodcast.com/episodes/122-s3UbrNTU</link>
+      <content:encoded><![CDATA[<h2>Featuring</h2><p>TJ VanToll — <a href="https://twitter.com/tjvantoll">Twitter</a>, <a href="https://github.com/tjvantoll">GitHub</a>, <a href="https://www.tjvantoll.com">Website</a><br />chantastic — <a href="https://twitter.com/chantastic">Twitter</a>, <a href="https://github.com/timneutkens">GitHub</a>, <a href="https://chan.dev">Website</a></p><h3>Discord</h3><p><a href="https://discord.gg/dx7ZWCy">Join the discussion Discord</a> 🎉🎊🥳</p><p>Listeners of React Podcast are chatting on Discord!<br /><a href="https://discord.gg/dx7ZWCy">Join us Thursday</a> at 10am CT for a friendly chat thru the latest episode.<br />It's fun, interactive and all are welcome!</p><h2>Links</h2><ul><li><a href="https://www.telerik.com/devreach/online">DevReach 2020</a></li><li><a href="https://www.twitch.tv/codeitlive">CodeItLive on Twitch</a></li><li><a href="https://www.telerik.com/react-wednesdays">React Wednesdays</a></li><li><a href="https://streamyard.com">StreamYard</a></li></ul><h2>Sponsors</h2><h3>Honeybadger</h3><p>When you push code with errors, and those error makes it all the way to a user, you want Honeybadger monitoring at your back.</p><p>Get 30% off for 6 months Honeybadger by mentioning React Podcast at sign-up. There's no credit card required.</p><p>Just visit <a href="https://www.honeybadger.io">Honebadger.io</a>.</p><h3>Infinite Red</h3><p>In over your head with a React or React Native app?<br />Infinite Red can help.<br />They are React Native core contributors who've been designing, building and shipping apps for over 10 years.<br />Learn more at <a href="http://reactpodcast.infinite.red/">reactpodcast.infinite.red</a>.</p><h2>Get involved</h2><h3>Black Lives Matter</h3><p>Please join us in donating to the <a href="https://eji.org">Equal Justice Initiative</a></p>
+]]></content:encoded>
+      <enclosure length="53250505" type="audio/mpeg" url="https://clubhouse-audio.s3.amazonaws.com/hujie/45e5fe9e-5622-4289-8050-402d89a5cea6.mp3"/>
+      <itunes:title>122: TJ VanToll on Online Events that Work</itunes:title>
+      <itunes:author>Spec</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/2715067c-341c-4704-8ff3-ab5f74ee1281/45e5fe9e-5622-4289-8050-402d89a5cea6/3000x3000/reactpodcast-cover.jpg?aid=rss_feed"/>
+      <itunes:duration>00:55:08</itunes:duration>
+      <itunes:summary>This year, COVID changed the way developers meet up and share ideas.
+TJ VanToll shares his experiences with these challenges moving the DevReach conference online. We talk about surprising trends, failure traps, and opportunities for you to find a unique voice in all of it.</itunes:summary>
+      <itunes:subtitle>This year, COVID changed the way developers meet up and share ideas.
+TJ VanToll shares his experiences with these challenges moving the DevReach conference online. We talk about surprising trends, failure traps, and opportunities for you to find a unique voice in all of it.</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>122</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">56a7e94a-db73-4030-a708-61ec8bc9e51d</guid>
+      <title>121: Tim Neutkens on Next.js 10</title>
+      <description><![CDATA[<h2>Featuring</h2><p>Tim Neutkens — <a href="https://twitter.com/timneutkens">Twitter</a>, <a href="https://github.com/tylermcginnis">GitHub</a>, <a href="https://timn.tech">Website</a><br />chantastic — <a href="https://twitter.com/chantastic">Twitter</a>, <a href="https://github.com/timneutkens">GitHub</a>, <a href="https://chan.dev">Website</a></p><h3>Discord</h3><p><a href="https://discord.gg/dx7ZWCy">Join the discussion Discord</a> 🎉🎊🥳</p><p>Listeners of React Podcast are chatting on Discord!<br /><a href="https://discord.gg/dx7ZWCy">Join us Friday</a> at 10am CT for a friendly chat thru the latest episode.<br />It's fun, interactive and all are welcome!  </p><h2>Links</h2><ul><li><a href="https://nextjs.org/blog/next-10">Next.js 10 announcement</a></li><li><a href="https://www.youtube.com/watch?v=1-NzQ9ObsfM">Next.js Conf 2020 Keynote</a></li><li><a href="https://nextjs.org/analytics">Next.js Analytics</a></li><li><a href="https://reactpodcast.com/episodes/53">53:Embrace the PHP with Next.js, Featuring Tim Neutkens</a> — our previous episode with Tim</li><li><a href="https://nextjs.org/learn/basics/create-nextjs-app">Next Tutorial</a></li></ul><h2>Sponsors</h2><h3>Honeybadger</h3><p>When you push code with errors, and those error makes it all the way to a user, you want Honeybadger monitoring at your back.</p><p>Get 30% off for 6 months Honeybadger by mentioning React Podcast at sign-up. There's no credit card required.</p><p>Just visit <a href="https://www.honeybadger.io">Honebadger.io</a>.</p><h3>Infinite Red</h3><p>In over your head with a React or React Native app?<br />Infinite Red can help.<br />They are React Native core contributors who've been designing, building and shipping apps for over 10 years.<br />Learn more at <a href="http://reactpodcast.infinite.red/">reactpodcast.infinite.red</a>.</p><h2>Get involved</h2><h3>Black Lives Matter</h3><p>Please join us in donating to the <a href="https://eji.org">Equal Justice Initiative</a></p>
+]]></description>
+      <pubDate>Thu, 3 Dec 2020 13:00:00 +0000</pubDate>
+      <author>shows@spec.fm (Spec)</author>
+      <link>https://reactpodcast.com/episodes/121-Y3_VBKrH</link>
+      <content:encoded><![CDATA[<h2>Featuring</h2><p>Tim Neutkens — <a href="https://twitter.com/timneutkens">Twitter</a>, <a href="https://github.com/tylermcginnis">GitHub</a>, <a href="https://timn.tech">Website</a><br />chantastic — <a href="https://twitter.com/chantastic">Twitter</a>, <a href="https://github.com/timneutkens">GitHub</a>, <a href="https://chan.dev">Website</a></p><h3>Discord</h3><p><a href="https://discord.gg/dx7ZWCy">Join the discussion Discord</a> 🎉🎊🥳</p><p>Listeners of React Podcast are chatting on Discord!<br /><a href="https://discord.gg/dx7ZWCy">Join us Friday</a> at 10am CT for a friendly chat thru the latest episode.<br />It's fun, interactive and all are welcome!  </p><h2>Links</h2><ul><li><a href="https://nextjs.org/blog/next-10">Next.js 10 announcement</a></li><li><a href="https://www.youtube.com/watch?v=1-NzQ9ObsfM">Next.js Conf 2020 Keynote</a></li><li><a href="https://nextjs.org/analytics">Next.js Analytics</a></li><li><a href="https://reactpodcast.com/episodes/53">53:Embrace the PHP with Next.js, Featuring Tim Neutkens</a> — our previous episode with Tim</li><li><a href="https://nextjs.org/learn/basics/create-nextjs-app">Next Tutorial</a></li></ul><h2>Sponsors</h2><h3>Honeybadger</h3><p>When you push code with errors, and those error makes it all the way to a user, you want Honeybadger monitoring at your back.</p><p>Get 30% off for 6 months Honeybadger by mentioning React Podcast at sign-up. There's no credit card required.</p><p>Just visit <a href="https://www.honeybadger.io">Honebadger.io</a>.</p><h3>Infinite Red</h3><p>In over your head with a React or React Native app?<br />Infinite Red can help.<br />They are React Native core contributors who've been designing, building and shipping apps for over 10 years.<br />Learn more at <a href="http://reactpodcast.infinite.red/">reactpodcast.infinite.red</a>.</p><h2>Get involved</h2><h3>Black Lives Matter</h3><p>Please join us in donating to the <a href="https://eji.org">Equal Justice Initiative</a></p>
+]]></content:encoded>
+      <enclosure length="60583183" type="audio/mpeg" url="https://clubhouse-audio.s3.amazonaws.com/hujie/0cc6abf3-935b-4519-9c03-aefb788359fb.mp3"/>
+      <itunes:title>121: Tim Neutkens on Next.js 10</itunes:title>
+      <itunes:author>Spec</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/2715067c-341c-4704-8ff3-ab5f74ee1281/0cc6abf3-935b-4519-9c03-aefb788359fb/3000x3000/reactpodcast-cover.jpg?aid=rss_feed"/>
+      <itunes:duration>01:02:46</itunes:duration>
+      <itunes:summary>Tim Neutkens details the new tech in Next.js 10!
+
+At this year&apos;s NextJS conf, Vercel announced killer new performance features that came from their partnerships with Google and the React Core team. Tim shares shares what these improvements mean for users and developers alike.</itunes:summary>
+      <itunes:subtitle>Tim Neutkens details the new tech in Next.js 10!
+
+At this year&apos;s NextJS conf, Vercel announced killer new performance features that came from their partnerships with Google and the React Core team. Tim shares shares what these improvements mean for users and developers alike.</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>121</itunes:episode>
+    </item>
+  </channel>
+</rss>
